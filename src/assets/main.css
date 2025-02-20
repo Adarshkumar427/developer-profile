@@ -1,0 +1,34 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.container {
+  max-width: 1200px;
+  /* width: 100%; */
+  margin-left: auto;
+  margin-right: auto;
+  height: auto;
+  padding: 0px 40px;
+  position: relative;
+}
+.btn {
+  padding: 15px;
+  padding-inline: 40px;
+  margin-top: 15px;
+  color: white;
+  border: 2px solid #e54b4b;
+  background-color: #e54b4b;
+  border-radius: 5px;
+  font-size: 15px;
+  letter-spacing: 2px;
+  transition: 0.5s;
+}
+
+.btn:hover {
+  background-color: white;
+  border-color: #e54b4b;
+  color: black;
+  /* Set text color */
+}
