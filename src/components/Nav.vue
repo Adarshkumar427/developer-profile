@@ -92,7 +92,7 @@ a {
 .main-nav {
     display: flex;
     justify-content: space-between;
-    padding: 25px 0px;
+    padding: 10px 0px;
     align-items: center;
     color: white;
 }
